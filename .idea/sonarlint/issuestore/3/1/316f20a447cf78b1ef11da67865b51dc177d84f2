@@ -1,0 +1,24 @@
+
+m	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¶ª¢8¬ÞÁäþ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Žä„¡úÿÿÿÿ
+X	java:S125g"<This block of commented-out lines of code should be removed.(ÜˆÃþ8Æ·Øãþ.
+]	java:S125"<This block of commented-out lines of code should be removed.(á±‘¦ûÿÿÿÿ8³–Þâþ.
+X	java:S125K"<This block of commented-out lines of code should be removed.(ÌÑžð8§¶áßþ.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ƒ§ô‡8©¼ÉÞþ.
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(ó®Äh8Ñ®‘ßþ.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(õ´¶õúÿÿÿÿ8ŠŸÚßþ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ç¯‰ƒ8ëÏ¿àþ.
+X	java:S1252"<This block of commented-out lines of code should be removed.(ÂÈ¨Ä8Éƒ€ßþ.
+X	java:S125e"<This block of commented-out lines of code should be removed.(çÕ­8Ç·äãþ.
+E	java:S108}")Either remove or fill this block of code.(”ý¾8©¼ÉÞþ.
+T
+java:S1144W"2Remove this unused private "writeMetaData" method.(œïË±ÿÿÿÿÿ8§¶áßþ.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(ÕÌýýÿÿÿÿ8©¼ÉÞþ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò„ÄÑ8ƒÎïâþ.
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ñÍÔ·8©¼ÉÞþ.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÉÈÅüÿÿÿÿ8©¼ÉÞþ.
+O
+java:S6126"2Replace this String concatenation with Text block.(Ò„ÄÑ8‹­Ëäþ.
+W
+java:S1068"5Remove this unused "preparedStatement" private field.(çƒ„Žøÿÿÿÿ8Éƒ€ßþ.
+X	java:S125,"<This block of commented-out lines of code should be removed.(ŒõÒ8Ë³™èþ.
